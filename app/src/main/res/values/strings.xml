@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SharedPreferences Tutorial</string>
+    <string name="choose_a_color_for_the_app">Choose a color for the app</string>
+    <string name="red_color">Red color</string>
+    <string name="green_color">Green color</string>
+    <string name="yellow_color">Yellow color</string>
+</resources>
