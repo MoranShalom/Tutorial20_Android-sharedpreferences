@@ -1,7 +1,7 @@
 
 ### Android-sharedpreferences
 _______________________________________
-* See   [activity_mail.xml](https://github.com/MoranShalom/Tutorial20_Android-sharedpreferences/blob/master/app/src/main/res/layout/activity_main.xml) 
+* See   [activity_main.xml](https://github.com/MoranShalom/Tutorial20_Android-sharedpreferences/blob/master/app/src/main/res/layout/activity_main.xml) 
 
 
 * See [MainActivity ](https://github.com/MoranShalom/Tutorial20_Android-sharedpreferences/blob/master/app/src/main/java/com/example/sharedpreferencestutorial/MainActivity.java)for the class work code
